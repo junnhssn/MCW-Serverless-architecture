@@ -8,7 +8,7 @@
  
     > You will see Suffix/DeploymentID value on **Lab Environment** tab, use it whereever you see SUFFIX or DeploymentID in lab steps.
  
-1. You can also open the Lab Guide on Seprate full window by selecting the **Split Window** in bottom right corner.
+1. You can also open the Lab Guide on Separate full window by selecting the **Split Window** in bottom right corner.
 
    ![](media/v2/v2-2.png)
  
